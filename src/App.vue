@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <div>divタグを追加</div>
+    <LikeNumber></LikeNumber>
   </div>
 </template>
 
