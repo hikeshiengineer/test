@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <p>hksブランチにて追加しました</p>
+    <div>divタグを追加</div>
   </div>
 </template>
 
